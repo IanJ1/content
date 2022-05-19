@@ -55,6 +55,7 @@ const innerTextOutput = document.getElementById("innerTextOutput");
 
 textContentOutput.value = source.textContent;
 innerTextOutput.value = source.innerText;
+//wance
 ```
 
 ### Result
